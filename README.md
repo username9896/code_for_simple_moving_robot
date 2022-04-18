@@ -1,1 +1,0 @@
-# code_for_simple_moving_robot
